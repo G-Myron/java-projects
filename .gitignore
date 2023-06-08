@@ -1,0 +1,15 @@
+# Outputs
+/out/
+/bin/
+
+# Intellij
+/.idea/
+/*.iml
+
+# Eclipse
+/.settings/
+/.classpath
+/.project
+
+# Draft projects
+/src/draft/
